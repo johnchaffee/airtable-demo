@@ -1,6 +1,6 @@
-# airtable-demo
+# airtable-npm-demo
 
-Example Airtable CRUD operations using the airtable.js npm package.
+Example Airtable API CRUD operations using the airtable.js npm package.
  
 - [https://airtable.com/api](https://airtable.com/api)
 - [https://github.com/Airtable/airtable.js](https://github.com/Airtable/airtable.js)
